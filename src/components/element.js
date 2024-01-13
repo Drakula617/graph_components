@@ -26,7 +26,7 @@ const Element = () => {
       onDragEnd={(e) => moveelend(e.target, e)}
       draggable="true"
     >
-      gggggggggg
+      123455677
     </div>
   );
 };
