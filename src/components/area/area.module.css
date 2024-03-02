@@ -1,0 +1,8 @@
+.area{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    border: 1px black solid;
+    z-index: 0;
+    background-color: coral;
+}
